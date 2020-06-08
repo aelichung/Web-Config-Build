@@ -5,7 +5,7 @@
 "dataUrl": "Web Config Build.data.unityweb",
 "wasmCodeUrl": "Web Config Build.wasm.code.unityweb",
 "wasmFrameworkUrl": "Web Config Build.wasm.framework.unityweb",
-"graphicsAPI": ["WebGL 2.0"],
+"graphicsAPI": ["WebGL 1.0","WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",

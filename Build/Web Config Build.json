@@ -10,7 +10,7 @@
 "backgroundUrl": "Web Config Build.jpg",
 "splashScreenStyle": "Dark",
 "backgroundColor": "#FFFFFF",
-"developmentBuild": false,
+"developmentBuild": true,
 "multithreading": false,
 "unityVersion": "2019.4.0f1"
 }
